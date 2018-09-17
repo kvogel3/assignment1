@@ -1,11 +1,26 @@
+/*
+
 html {
     color: fuchsia
 }
 
+body {
+    color: blue;
+    background-color: coral;
+}
+
 h1 {
     color: green;
+    background-color: beige;
 }
 
 p {
     color: coral;
+    background-color: gold
+}
+*/
+}
+
+a {
+    color:red;
 }
