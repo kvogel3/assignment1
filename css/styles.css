@@ -1,26 +1,40 @@
-/*
-
 html {
     color: fuchsia
 }
 
+/*
 body {
     color: blue;
-    background-color: coral;
+    background-color: gray;
 }
+*/
 
 h1 {
     color: green;
     background-color: beige;
+    font-family: sans-serif
+}
+
+.cis-260 {
+    color: red;
+    background-color: cadetblue;
+    font-family: cursive;
 }
 
 p {
     color: coral;
     background-color: gold
 }
-*/
+
+.test {
+    background-color: darkgreen;
 }
 
 a {
-    color:red;
+    color: red;
+}
+
+.testing {
+    background-color: aqua;
+    color: purple
 }
