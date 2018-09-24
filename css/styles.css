@@ -11,23 +11,24 @@ body {
 
 h1 {
     color: green;
-    background-color: beige;
+    /*background-color: beige;*/
     font-family: sans-serif
 }
 
 .cis-260 {
-    color: red;
-    background-color: cadetblue;
+    color: #D0681D;
+    /*background-color: cadetblue;*/
     font-family: cursive;
 }
 
 p {
     color: coral;
-    background-color: gold
+    /*background-color: gold;*/
+    font-size: 2em;
 }
 
 .test {
-    background-color: darkgreen;
+    /*background-color: darkgreen;*/
 }
 
 a {
@@ -35,6 +36,6 @@ a {
 }
 
 .testing {
-    background-color: aqua;
+    /*background-color: aqua;*/
     color: purple
 }
