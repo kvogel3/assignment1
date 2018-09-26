@@ -22,9 +22,20 @@ h1 {
 }
 
 p {
-    color: coral;
+    color: #ff0000;
     /*background-color: gold;*/
-    font-size: 2em;
+    font-size: 22pt;
+}
+#Special-paragraph {
+    color: #0000ff;
+}
+
+#special-paragraph-3 {
+    font-family: cursive
+}
+
+body a {
+    font-family: cursive;
 }
 
 .test {
